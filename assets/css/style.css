@@ -1,0 +1,86 @@
+#corpo{
+    background-color:rgba(0, 0, 0, 0.658) 
+}
+#logo{
+    block-size: 35px;
+}
+#butons{
+    justify-content: end;
+}
+.footer-basic {
+  padding:40px 0;
+  background-color:#343a40;
+  color:#4b4c4d;
+}
+
+html, * {
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'calibri light', calibri, arial, sans-serif;
+}
+div.body-content{
+  margin-bottom: 40px;
+}
+
+footer.fixar-rodape{
+  border-top: 1px solid #333;
+  bottom: 0;
+  left: 0;
+  height: 200px;
+  position: fixed;
+  width: 100%;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:white;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  
+  color:white;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
+img.d-block{
+
+}
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.336);
+}
